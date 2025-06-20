@@ -1,0 +1,11 @@
+package prova_GC;
+
+public class Usuario {
+    String nome;
+    int idade;
+
+    public Usuario(String n, int i){
+        nome = n;
+        idade = i;
+    }
+}
